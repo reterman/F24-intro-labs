@@ -31,14 +31,3 @@ resource "yandex_compute_instance" "nginx_instance" {
   }
 }
 
-resource "yandex_vpc_network" "my_network" {
-  name = "my-network"
-}
-
-resource "yandex_vpc_subnet" "my_subnet" {
-  name           = "my-subnet"
-  network_id     = yandex_vpc_network.my_network.id
-  v4_cidr_blocks = ["10.128.0.0/24"]
-  zone           = "ru-central1-a"
-}
-
