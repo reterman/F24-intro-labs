@@ -18,7 +18,7 @@
   8. Start the VM and follow the installation instructions for Ubuntu.
 
 ### 1.3 Screenshot of the Running VM
-![Running VM](F24-intro-labs/lab7/screenshot1.png)
+![Running VM](screenshot1.png)
 
 ---
 
@@ -28,16 +28,16 @@
 - **Tool Used:** `htop`
   - **Command Used:** `htop`
   - **Output:**
-![htop](F24-intro-labs/lab7/screenshot2.png)
+![htop](screenshot2.png)
 
 - **Tool Used:** `ifconfig`
   - **Command Used:** `ifconfig`
   - **Output:**
-![ifconfig](F24-intro-labs/lab7/screenshot3.png)
+![ifconfig](screenshot3.png)
 
 ### 2.2 Operating System Specifications
 - **Tool Used:** `neofetch`
   - **Command Used:** `neofetch`
   - **Output:**
-![neofetch](F24-intro-labs/lab7/screenshot4.png)
+![neofetch](screenshot4.png)
 
