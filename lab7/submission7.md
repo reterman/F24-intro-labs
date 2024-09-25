@@ -28,16 +28,19 @@
 - **Tool Used:** `htop`
   - **Command Used:** `htop`
   - **Output:**
+    
 ![htop](screenshot2.png)
 
 - **Tool Used:** `ifconfig`
   - **Command Used:** `ifconfig`
   - **Output:**
+    
 ![ifconfig](screenshot3.png)
 
 ### 2.2 Operating System Specifications
 - **Tool Used:** `neofetch`
   - **Command Used:** `neofetch`
   - **Output:**
+    
 ![neofetch](screenshot4.png)
 
